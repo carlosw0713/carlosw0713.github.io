@@ -9,6 +9,7 @@ header-img: img/bg-cook.jpg
 catalog: true
 tags:
  - 博客模板
+ - 仓库
 ---
 
 [我的博客在这里 →](https://carlosw0713.github.io/)
