@@ -5,8 +5,8 @@
     <description>Every failure is leading towards success.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 31 Jul 2023 15:30:49 +0800</pubDate>
-    <lastBuildDate>Mon, 31 Jul 2023 15:30:49 +0800</lastBuildDate>
+    <pubDate>Mon, 31 Jul 2023 17:43:07 +0800</pubDate>
+    <lastBuildDate>Mon, 31 Jul 2023 17:43:07 +0800</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -818,6 +818,63 @@ tags:	#  网页 tags 标签
         <guid isPermaLink="true">http://localhost:4000/2023/07/31/Python%E6%89%B9%E9%87%8F%E4%BF%AE%E6%94%B9%E6%96%87%E4%BB%B6%E5%86%85%E5%AE%B9%E6%93%8D%E4%BD%9C/</guid>
         
         <category>python</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>仓库-carlosw0713.github.io</title>
+        <description>&lt;p&gt;&lt;img src=&quot;https://cdn.nlark.com/yuque/0/2023/png/38423761/1690790198839-3d270bb1-2e92-437d-a435-909b42635b12.png#averageHue=%23c9c8c7&amp;amp;clientId=ub8d32bcb-1991-4&amp;amp;from=paste&amp;amp;height=974&amp;amp;id=u5862e292&amp;amp;originHeight=877&amp;amp;originWidth=1863&amp;amp;originalType=binary&amp;amp;ratio=0.8999999761581421&amp;amp;rotation=0&amp;amp;showTitle=false&amp;amp;size=859449&amp;amp;status=done&amp;amp;style=none&amp;amp;taskId=u018ecb77-bf94-4b13-a3f6-524271f9135&amp;amp;title=&amp;amp;width=2070.0000548362746&quot; alt=&quot;image.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://img.shields.io/badge/HTML-red#id=uu9Rc&amp;amp;originHeight=20&amp;amp;originWidth=41&amp;amp;originalType=binary&amp;amp;ratio=1&amp;amp;rotation=0&amp;amp;showTitle=false&amp;amp;status=done&amp;amp;style=none&amp;amp;title=&quot; alt=&quot;&quot; /&gt;&lt;img src=&quot;https://img.shields.io/badge/jekyll-green#id=d1jhY&amp;amp;originHeight=20&amp;amp;originWidth=39&amp;amp;originalType=binary&amp;amp;ratio=1&amp;amp;rotation=0&amp;amp;showTitle=false&amp;amp;status=done&amp;amp;style=none&amp;amp;title=&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;https://img.shields.io/badge/Ruby-3.2.21-block#id=mgnP8&amp;amp;originHeight=20&amp;amp;originWidth=82&amp;amp;originalType=binary&amp;amp;ratio=1&amp;amp;rotation=0&amp;amp;showTitle=false&amp;amp;status=done&amp;amp;style=none&amp;amp;title=&quot; alt=&quot;&quot; /&gt;&lt;img src=&quot;https://img.shields.io/github/issues/carlosw0713/carlosw0713.github.io.svg?style=flat#id=GzIY1&amp;amp;originHeight=20&amp;amp;originWidth=90&amp;amp;originalType=binary&amp;amp;ratio=1&amp;amp;rotation=0&amp;amp;showTitle=false&amp;amp;status=done&amp;amp;style=none&amp;amp;title=&quot; alt=&quot;&quot; /&gt;&lt;img src=&quot;https://img.shields.io/badge/license-MIT-blue.svg?style=flat#id=q3mun&amp;amp;originHeight=20&amp;amp;originWidth=78&amp;amp;originalType=binary&amp;amp;ratio=1&amp;amp;rotation=0&amp;amp;showTitle=false&amp;amp;status=done&amp;amp;style=none&amp;amp;title=&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;https://img.shields.io/github/stars/carlosw0713/carlosw0713.github.io.svg?style=social&amp;amp;label=Star#id=wahx6&amp;amp;originHeight=20&amp;amp;originWidth=70&amp;amp;originalType=binary&amp;amp;ratio=1&amp;amp;rotation=0&amp;amp;showTitle=false&amp;amp;status=done&amp;amp;style=none&amp;amp;title=&quot; alt=&quot;&quot; /&gt;&lt;img src=&quot;https://img.shields.io/github/forks/carlosw0713/carlosw0713.github.io.svg?style=social&amp;amp;label=Fork#id=pXvpq&amp;amp;originHeight=20&amp;amp;originWidth=72&amp;amp;originalType=binary&amp;amp;ratio=1&amp;amp;rotation=0&amp;amp;showTitle=false&amp;amp;status=done&amp;amp;style=none&amp;amp;title=&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;关于&quot;&gt;关于&lt;/h2&gt;
+&lt;p&gt;博客的模板是从 &lt;a href=&quot;https://github.com/Huxpro/huxpro.github.io&quot;&gt;Hux&lt;/a&gt; fork的。非常感谢这个这个作者。
+详细教程参考 《&lt;a href=&quot;https://carlosw0713.github.io/使用-GitHub-Pages-+-Jekyll-快速搭建个人博客网站/&quot;&gt;使用 GitHub Pages + Jekyll 快速搭建个人博客网站&lt;/a&gt;》&lt;/p&gt;
+&lt;h3 id=&quot;点击查看博客详情-&quot;&gt;&lt;a href=&quot;https://carlosw0713.github.io/&quot;&gt;点击查看博客详情 👆&lt;/a&gt;&lt;/h3&gt;
+&lt;h2 id=&quot;部署&quot;&gt;部署&lt;/h2&gt;
+&lt;h3 id=&quot;本地安装-jekyll&quot;&gt;本地安装 Jekyll&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Windos：安装 Ruby和Devkit &lt;a href=&quot;https://rubyinstaller.org/downloads/&quot;&gt;https://rubyinstaller.org/downloads/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;MAC：安装 Jekyll  cmd命令：&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;gem install jekyll bundler&lt;/code&gt;
+    &lt;h3 id=&quot;克隆到本地&quot;&gt;克隆到本地&lt;/h3&gt;
+  &lt;/li&gt;
+  &lt;li&gt;git clone git@github.com:carlosw0713/carlosw0713.github.io.git
+    &lt;h3 id=&quot;运行项目&quot;&gt;运行项目&lt;/h3&gt;
+  &lt;/li&gt;
+  &lt;li&gt;在安装好jekyll的前提下，cmd命令切换到仓库文件目录下，执行以下命令来启动 Jekyll 服务器：
+    &lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;rouge-gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
+2
+3
+&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;bundle exec jekyll serve
+gem update jekyll # 更新jekyll
+gem update github-pages #更新依赖的包
+&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+    &lt;blockquote&gt;
+      &lt;ul&gt;
+        &lt;li&gt;在浏览器中访问 &lt;a href=&quot;http://localhost:4000/&quot;&gt;http://localhost:4000&lt;/a&gt; 就可以看到你的 Jekyll 网站了，你对本地博客的修改都会在这个地址进行显示，修改配置后网址要&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;强制刷新&lt;/code&gt;才会展示&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;致谢&quot;&gt;致谢&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;博客模板是 &lt;a href=&quot;https://github.com/Huxpro/huxpro.github.io&quot;&gt;Hux&lt;/a&gt; fork 的, 非常感谢这个作者。&lt;/li&gt;
+  &lt;li&gt;感谢 Jekyll、Github Pages 和 Bootstrap。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;##&lt;/p&gt;
+</description>
+        <pubDate>Thu, 22 Jun 2023 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/2023/06/22/%E4%BB%93%E5%BA%93-carlosw0713.github.io/</link>
+        <guid isPermaLink="true">http://localhost:4000/2023/06/22/%E4%BB%93%E5%BA%93-carlosw0713.github.io/</guid>
+        
+        <category>仓库</category>
         
         
       </item>
@@ -1676,174 +1733,6 @@ tags:    #  网页 tags 标签
         <guid isPermaLink="true">http://localhost:4000/2023/01/13/%E6%97%85%E6%B8%B8%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1/</guid>
         
         <category>Django</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Flask-Migrate 迁移 ORM 模型</title>
-        <description>&lt;h1 id=&quot;flask-migrate-迁移-orm-模型&quot;&gt;Flask Migrate 迁移 ORM 模型&lt;/h1&gt;
-
-&lt;p&gt;Flask-Migrate 是 Flask 的一个扩展库，用于管理和迁移数据库。它基于 SQLAlchemy，提供了简单易用的方法来创建、修改和更新数据库表格结构。本文将介绍如何使用 Flask-Migrate 迁移 ORM 模型，并对 Flask-Migrate 迁移方法进行详细解释。&lt;/p&gt;
-
-&lt;h2 id=&quot;1-安装和配置&quot;&gt;1. 安装和配置&lt;/h2&gt;
-
-&lt;p&gt;首先，我们需要安装 Flask-Migrate 及其依赖库。可以使用以下命令进行安装：&lt;/p&gt;
-
-&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;rouge-gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
-&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;pip &lt;span class=&quot;nb&quot;&gt;install &lt;/span&gt;pymysql flask flask_sqlalchemy flask_migrate
-&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;在安装完成后，我们可以开始配置和连接数据库。在示例中，我们选择使用 MySQL 数据库。通过调用 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;SQLAlchemy&lt;/code&gt; 的 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;create_engine&lt;/code&gt; 方法，创建并返回一个数据库对象 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;db&lt;/code&gt;，用于后续的数据库操作。&lt;/p&gt;
-
-&lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;rouge-gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;pymysql&lt;/span&gt;
-&lt;span class=&quot;kn&quot;&gt;from&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;flask&lt;/span&gt; &lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Flask&lt;/span&gt;
-&lt;span class=&quot;kn&quot;&gt;from&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;flask_sqlalchemy&lt;/span&gt; &lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;SQLAlchemy&lt;/span&gt;
-
-&lt;span class=&quot;n&quot;&gt;app&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;Flask&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;__name__&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-
-&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;connect_flask_mysql&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;app&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;username&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;sh&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;root&lt;/span&gt;&lt;span class=&quot;sh&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;password&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;sh&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;123456&lt;/span&gt;&lt;span class=&quot;sh&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;host&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;sh&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;127.0.0.1&lt;/span&gt;&lt;span class=&quot;sh&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;port&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;3306&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;db&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;sh&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;Flask_Migrate_study&lt;/span&gt;&lt;span class=&quot;sh&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;):&lt;/span&gt;
-    &lt;span class=&quot;n&quot;&gt;app&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;config&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;sh&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;SQLALCHEMY_DATABASE_URI&lt;/span&gt;&lt;span class=&quot;sh&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;sa&quot;&gt;f&lt;/span&gt;&lt;span class=&quot;sh&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;mysql+pymysql://&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;username&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;password&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;@&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;host&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;port&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;/&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;db&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;?charset=utf8&lt;/span&gt;&lt;span class=&quot;sh&quot;&gt;&apos;&lt;/span&gt;
-    &lt;span class=&quot;n&quot;&gt;app&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;config&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;sh&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;SQLALCHEMY_TRACK_MODIFICATIONS&lt;/span&gt;&lt;span class=&quot;sh&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;bp&quot;&gt;False&lt;/span&gt;
-    &lt;span class=&quot;n&quot;&gt;db&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;SQLAlchemy&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;app&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-    &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;db&lt;/span&gt;
-
-&lt;span class=&quot;c1&quot;&gt;# 使用 SQLAlchemy 提供的模型类定义表格结构
-&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;db&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;connect_flask_mysql&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;app&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h2 id=&quot;2-创建模型类&quot;&gt;2. 创建模型类&lt;/h2&gt;
-
-&lt;p&gt;在连接数据库后，我们使用 SQLAlchemy 提供的模型类来定义数据库中的表格结构。在示例中，我们创建了两个模型类 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Student&lt;/code&gt; 和 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Class&lt;/code&gt;，分别表示学生和班级。&lt;/p&gt;
-
-&lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;rouge-gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;k&quot;&gt;class&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;Student&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;db&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Model&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;):&lt;/span&gt;
-    &lt;span class=&quot;nb&quot;&gt;id&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;db&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nc&quot;&gt;Column&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;db&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Integer&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;primary_key&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;bp&quot;&gt;True&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-    &lt;span class=&quot;n&quot;&gt;name&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;db&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nc&quot;&gt;Column&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;db&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nc&quot;&gt;String&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;50&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;),&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;nullable&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;bp&quot;&gt;False&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-    &lt;span class=&quot;n&quot;&gt;class_id&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;db&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nc&quot;&gt;Column&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;db&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Integer&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;db&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nc&quot;&gt;ForeignKey&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;sh&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;class.id&lt;/span&gt;&lt;span class=&quot;sh&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;))&lt;/span&gt;
-
-    &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;random&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;choice&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;([&lt;/span&gt;&lt;span class=&quot;bp&quot;&gt;False&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;bp&quot;&gt;True&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]):&lt;/span&gt;
-        &lt;span class=&quot;n&quot;&gt;age&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;db&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;db&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nc&quot;&gt;Column&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;db&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Integer&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;  &lt;span class=&quot;c1&quot;&gt;# 新增字段
-&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;class&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;Class&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;db&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Model&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;):&lt;/span&gt;
-    &lt;span class=&quot;nb&quot;&gt;id&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;db&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nc&quot;&gt;Column&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;db&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Integer&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;primary_key&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;bp&quot;&gt;True&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-    &lt;span class=&quot;n&quot;&gt;name&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;db&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nc&quot;&gt;Column&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;db&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nc&quot;&gt;String&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;50&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;),&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;nullable&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;bp&quot;&gt;False&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-
-    &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;random&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;choice&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;([&lt;/span&gt;&lt;span class=&quot;bp&quot;&gt;False&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;bp&quot;&gt;True&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]):&lt;/span&gt;
-        &lt;span class=&quot;n&quot;&gt;count&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;db&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;db&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nc&quot;&gt;Column&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;db&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Integer&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;  &lt;span class=&quot;c1&quot;&gt;# 新增字段
-&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;在模型类中，我们使用 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;db.Column&lt;/code&gt; 来定义表格的各个字段，包括字段的类型、约束等。根据随机选择的条件，可能会添加额外的 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;age&lt;/code&gt; 和 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;count&lt;/code&gt; 字段。通过这种方式，我们可以灵活地调整和修改表格结构。&lt;/p&gt;
-
-&lt;h2 id=&quot;3-数据库迁移方法&quot;&gt;3. 数据库迁移方法&lt;/h2&gt;
-
-&lt;p&gt;Flask-Migrate 提供了一套便捷的数据库迁移方法，通过命令行工具或 Flask 的命令行脚本来执行。下面是 Flask-Migrate 迁移方法的详细说明：&lt;/p&gt;
-
-&lt;h3 id=&quot;31-初始化迁移环境&quot;&gt;3.1 初始化迁移环境&lt;/h3&gt;
-
-&lt;p&gt;在第一次使用 Flask-Migrate 之前，需要初始化迁移环境，执行以下命令：&lt;/p&gt;
-
-&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;rouge-gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
-&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;flask db init
-&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;该命令会在项目根目录下创建一个名为 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;migrations&lt;/code&gt; 的文件夹，用于存放迁移脚本和版本控制。&lt;/p&gt;
-
-&lt;h3 id=&quot;32-创建或更新迁移脚本&quot;&gt;3.2 创建或更新迁移脚本&lt;/h3&gt;
-
-&lt;p&gt;每当我们修改了模型类的定义，需要创建或更新迁移脚本来映射这些变化。执行以下命令：&lt;/p&gt;
-
-&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;rouge-gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
-&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;flask db migrate &lt;span class=&quot;nt&quot;&gt;-m&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;创建或者更新数据表&quot;&lt;/span&gt;
-&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;该命令会根据模型类的变化生成一个新的迁移脚本，并记录在 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;migrations&lt;/code&gt; 文件夹中。&lt;/p&gt;
-
-&lt;h3 id=&quot;33-执行数据库迁移&quot;&gt;3.3 执行数据库迁移&lt;/h3&gt;
-
-&lt;p&gt;一旦我们生成了迁移脚本，可以执行数据库迁移操作，应用这些变化到实际的数据库中。执行以下命令：&lt;/p&gt;
-
-&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;rouge-gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
-2
-&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;flask db upgrade
-flask &lt;span class=&quot;nt&quot;&gt;--app&lt;/span&gt; app.py db init    &lt;span class=&quot;c&quot;&gt;#--app 选项并指定应用程序名称&lt;/span&gt;
-&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;该命令会运行迁移脚本，修改数据库结构，使其与模型类的定义保持一致。&lt;/p&gt;
-
-&lt;h3 id=&quot;34-回滚迁移&quot;&gt;3.4 回滚迁移&lt;/h3&gt;
-
-&lt;p&gt;在特殊情况下，可能需要回滚已经执行的迁移脚本。首先，可以通过以下命令查看迁移版本历史：&lt;/p&gt;
-
-&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;rouge-gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
-&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;flask db &lt;span class=&quot;nb&quot;&gt;history&lt;/span&gt;
-&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;然后，可以选择回滚到指定的版本，或者回滚到上一个版本：&lt;/p&gt;
-
-&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;rouge-gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
-2
-&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;flask db downgrade  &lt;span class=&quot;c&quot;&gt;# 回滚到上一个版本&lt;/span&gt;
-flask db downgrade &amp;lt;版本号&amp;gt;  &lt;span class=&quot;c&quot;&gt;# 回滚到指定版本&lt;/span&gt;
-&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;注意：回滚迁移可能会丢失已有数据，请谨慎操作。&lt;/p&gt;
-
-&lt;h3 id=&quot;35-删除内容和版本记录&quot;&gt;3.5 删除内容和版本记录&lt;/h3&gt;
-
-&lt;p&gt;场景一:连接mysql时，直接删除migrations和将models文件内容进行修改，重新运行创建即可
-场景二:连接sqlite3时，需要将sqlite.db文件和migrations一起删除，重新运行创建即可
-注意：删除已有数据，请谨慎操作。&lt;/p&gt;
-
-&lt;h2 id=&quot;4-migrations-文件夹内容介绍&quot;&gt;4. migrations 文件夹内容介绍&lt;/h2&gt;
-
-&lt;p&gt;在使用 Flask-Migrate 进行迁移操作后，会在项目根目录下的 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;migrations&lt;/code&gt; 文件夹中生成一些文件和文件夹。这里简要介绍一下主要的文件：
-&lt;img src=&quot;https://cdn.nlark.com/yuque/0/2023/png/38423761/1689326256560-dddf0a60-eb20-4832-8d83-baeb98a6243e.png#averageHue=%23373e42&amp;amp;clientId=uf644f6db-9401-4&amp;amp;from=paste&amp;amp;height=168&amp;amp;id=u6c4910ac&amp;amp;originHeight=168&amp;amp;originWidth=351&amp;amp;originalType=binary&amp;amp;ratio=1&amp;amp;rotation=0&amp;amp;showTitle=false&amp;amp;size=9789&amp;amp;status=done&amp;amp;style=none&amp;amp;taskId=uaac8283f-50ff-4e2f-a3d4-bae74ee7238&amp;amp;title=&amp;amp;width=351&quot; alt=&quot;image.png&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;alembic.ini&lt;/code&gt;：用于配置 Alembic，Flask-Migrate 的底层工具。&lt;/li&gt;
-  &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;env.py&lt;/code&gt;：Alembic 的环境脚本，包含数据库连接等相关配置。&lt;/li&gt;
-  &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;versions&lt;/code&gt; 文件夹：存储着每个迁移版本的具体实现。&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;在 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;versions&lt;/code&gt; 文件夹中，每个迁移版本都以时间戳命名，并包含一个包含迁移操作的 Python 脚本。这些脚本是自动生成的，可以使用文本编辑器打开查看其具体内容。每个迁移脚本包含了数据库表格的创建、修改或删除等操作。&lt;/p&gt;
-
-&lt;h2 id=&quot;总结&quot;&gt;总结&lt;/h2&gt;
-
-&lt;p&gt;本文介绍了如何使用 Flask-Migrate 迁移 ORM 模型，包括安装和配置、创建模型类、数据库迁移方法以及 migrations 文件夹内容介绍。通过 Flask-Migrate，我们可以轻松管理和迁移数据库，方便地更新和调整表格结构。&lt;/p&gt;
-</description>
-        <pubDate>Wed, 28 Dec 2022 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2022/12/28/Flask-Migrate-%E8%BF%81%E7%A7%BB-ORM-%E6%A8%A1%E5%9E%8B/</link>
-        <guid isPermaLink="true">http://localhost:4000/2022/12/28/Flask-Migrate-%E8%BF%81%E7%A7%BB-ORM-%E6%A8%A1%E5%9E%8B/</guid>
-        
-        <category>Flask</category>
         
         
       </item>
