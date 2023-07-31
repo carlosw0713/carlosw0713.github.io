@@ -16,7 +16,7 @@
     
     <meta property="og:type" content="website">
     <meta property="og:description"
-        content="「离开世界之前 一切都是过程」">
+        content="「人生就像一场旅程，在结束之前，我们必须经历各种不同的阶段。」">
     
     <meta property="og:image" content="http://localhost:4000/img/about-Carlos1.jpg">
     <meta property="og:url" content="http://localhost:4000/page2/">
@@ -101,6 +101,8 @@
                         <li>
                             <a href="/archive/">Archive</a>
                         </li>
+                        
+                        
                         
                         
                         
@@ -226,7 +228,7 @@
         <div class="site-heading">
         
           <h1>Carlos Blog</h1>
-          <span class="subheading">「离开世界之前 一切都是过程」</span>
+          <span class="subheading">「人生就像一场旅程，在结束之前，我们必须经历各种不同的阶段。」</span>
         </div>
       </div>
     </div>
@@ -245,6 +247,62 @@
     <div class="col-lg-8 col-lg-offset-1 col-md-8 col-md-offset-1 col-sm-12
       col-xs-12 postlist-container">
       
+<div class="post-preview">
+    <a href="/2022/11/12/Django%E5%85%A5%E9%97%A8-MTV%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/">
+        <h2 class="post-title">
+            Django入门-MTV设计模式
+        </h2>
+        
+        <h3 class="post-subtitle">
+            Django入门
+        </h3>
+        
+        <div class="post-content-preview">
+            
+                Django入门（2）MTV设计模式
+
+Django是一款流行的Python Web框架，其核心理念是“MTV模式”。MTV模式即Model-Template-View模式，是Django框架的核心组成部分。下面我们就来详细介绍一下MTV模式以及在Django中的应用。
+
+MTV模式
+
+MTV模式是一种将Web应用程序分解成三个主要组件的设计模式，每个组件都使用特定的目的来处理应用程序的不同...
+            
+        </div>
+    </a>
+    <p class="post-meta">
+        Posted by Carlos on November 12, 2022
+    </p>
+</div>
+<hr>
+
+<div class="post-preview">
+    <a href="/2022/10/16/Django%E5%B0%8F%E7%9F%A5%E8%AF%86-Models-%E6%95%B0%E6%8D%AE%E5%BA%93%E6%93%8D%E4%BD%9C/">
+        <h2 class="post-title">
+            Django小知识-Models 数据库操作
+        </h2>
+        
+        <h3 class="post-subtitle">
+            Django知识点
+        </h3>
+        
+        <div class="post-content-preview">
+            
+                Django中Models 数据库操作-创建model
+
+在Django中，Model是应用程序的数据存储和业务逻辑的核心，用于定义如何管理数据，以及如何与数据进行交互和修改。使用Model可以轻松地创建数据库表以及对其进行操作，极大地提升了应用程序的开发效率和可维护性。本文将介绍如何在Django中创建Model，并对其进行常见操作。
+
+准备工作
+
+1.在settings 文件中，INST...
+            
+        </div>
+    </a>
+    <p class="post-meta">
+        Posted by Carlos on October 16, 2022
+    </p>
+</div>
+<hr>
+
 <div class="post-preview">
     <a href="/2022/09/30/%E6%B5%8B%E8%AF%95%E6%96%87%E4%BB%B6-%E5%8D%9A%E5%AE%A2%E6%A8%A1%E6%9D%BF1/">
         <h2 class="post-title">
@@ -524,45 +582,6 @@ def index():
 </div>
 <hr>
 
-<div class="post-preview">
-    <a href="/2022/03/19/jinjia2%E6%A8%A1%E6%9D%BF%E7%BB%A7%E6%89%BF/">
-        <h2 class="post-title">
-            jinjia2模板继承
-        </h2>
-        
-        <h3 class="post-subtitle">
-            flaskjinjia2操作
-        </h3>
-        
-        <div class="post-content-preview">
-            
-                以下是一个使用Flask和Jinja2模板引擎的示例，演示了如何在templeate中使用模板继承：
-
-首先，我们需要创建一个基础模板（base.html），它包含整个网站的基本结构和共享的代码。接下来，我们创建一个子模板（blog.html），该模板继承自基础模板，并可以添加自己的内容。
-
-基础模板 base.html 的示例代码如下：
-
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-1...
-            
-        </div>
-    </a>
-    <p class="post-meta">
-        Posted by Carlos on March 19, 2022
-    </p>
-</div>
-<hr>
-
 
 <!-- Pager -->
 
@@ -572,6 +591,10 @@ def index():
         <a href="/">&larr; Newer Posts</a>
     </li>
     
+    
+    <li class="next">
+        <a href="/page3">Older Posts &rarr;</a>
+    </li>
     
 </ul>
 
@@ -594,25 +617,25 @@ def index():
         
         
         
-                <a data-sort="0010" 
+                <a data-sort="0012" 
                     href="/archive/?tag=Flask"
                     title="Flask"
                     rel="9">Flask</a>
         
-                <a data-sort="0014" 
+                <a data-sort="0016" 
                     href="/archive/?tag=Django"
                     title="Django"
                     rel="5">Django</a>
         
-                <a data-sort="0016" 
+                <a data-sort="0017" 
                     href="/archive/?tag=python"
                     title="python"
-                    rel="3">python</a>
+                    rel="4">python</a>
         
-                <a data-sort="0017" 
+                <a data-sort="0018" 
                     href="/archive/?tag=%E5%8D%9A%E5%AE%A2%E6%A8%A1%E6%9D%BF"
                     title="博客模板"
-                    rel="2">博客模板</a>
+                    rel="3">博客模板</a>
     </div>
 </section>
 

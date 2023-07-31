@@ -1,63 +1,43 @@
-[Hux Blog](https://huangxuan.me)
-================================
+![](https://cdn.nlark.com/yuque/0/2023/png/38423761/1690790198839-3d270bb1-2e92-437d-a435-909b42635b12.png)
 
-> I never expect this becomes popular.
+![](https://img.shields.io/badge/HTML-red)![](https://img.shields.io/badge/jekyll-green)
 
-![](http://huangxuan.me/img/blog-desktop.jpg)
+![](https://img.shields.io/badge/Ruby-3.2.21-block)
 
+![](https://img.shields.io/github/issues/carlosw0713/carlosw0713.github.io.svg?style=flat)  ![](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)  ![](https://img.shields.io/github/stars/carlosw0713/carlosw0713.github.io.svg?style=social&label=Star)  ![](https://img.shields.io/github/forks/carlosw0713/carlosw0713.github.io.svg?style=social&label=Fork)
 
-[User Manual 👉](_doc/Manual.md)
---------------------------------------------------
+## 关于
 
-### Getting Started
+博客的模板是从 [Hux](https://github.com/Huxpro/huxpro.github.io) fork的。非常感谢这个这个作者。
 
-1. You will need [Ruby](https://www.ruby-lang.org/en/) and [Bundler](https://bundler.io/) to use [Jekyll](https://jekyllrb.com/). Following [Using Jekyll with Bundler](https://jekyllrb.com/tutorials/using-jekyll-with-bundler/) to fullfill the enviromental requirement.
+详细教程参考 《[使用 GitHub Pages + Jekyll 快速搭建个人博客网站](https://carlosw0713.github.io/使用-GitHub-Pages-+-Jekyll-快速搭建个人博客网站/)》
 
-2. Installed dependencies in the `Gemfile`:
+### [点击查看博客详情 👆](https://carlosw0713.github.io/)
 
-```sh
-$ bundle install 
+## 部署
+
+### 1. 本地安装 Jekyll
+
+- Windos：安装 Ruby和Devkit [Downloads](https://rubyinstaller.org/downloads/)
+- MAC：安装 Jekyll cmd命令：`gem install jekyll bundler`
+
+### 2. 克隆到本地
+
+- git clone git@github.com:carlosw0713/carlosw0713.github.io.git
+
+### 3. 运行项目
+
+- 在安装好jekyll的前提下，cmd命令切换到仓库文件目录下，执行以下命令来启动 Jekyll 服务器：
+
+```
+bundle exec jekyll serve
+gem update jekyll # 更新jekyll
+gem update github-pages #更新依赖的包
 ```
 
-3. Serve the website (`localhost:4000` by default):
+- 在浏览器中访问 [http://localhost:4000](http://localhost:4000/) 就可以看到你的 Jekyll 网站了，你对本地博客的修改都会在这个地址进行显示，修改配置后网址要`强制刷新`才会展示
 
-```sh
-$ bundle exec jekyll serve  # alternatively, npm start
-```
+## 致谢
 
-### Development (Build From Source)
-
-To modify the theme, you will need [Grunt](https://gruntjs.com/). There are numbers of tasks you can find in the `Gruntfile.js`, includes minifing JavaScript, compiling `.less` to `.css`, adding banners to keep the Apache 2.0 license intact, watching for changes, etc. 
-
-Yes, they were inherited and are extremely old-fashioned. There is no modularization and transpilation, etc.
-
-Critical Jekyll-related code are located in `_include/` and `_layouts/`. Most of them are [Liquid](https://github.com/Shopify/liquid/wiki) templates.
-
-This theme uses the default code syntax highlighter of jekyll, [Rouge](http://rouge.jneen.net/), which is compatible with Pygments theme so just pick any pygments theme css (e.g. from [here](http://jwarby.github.io/jekyll-pygments-themes/languages/javascript.html) and replace the content of `highlight.less`.
-
-
-### Interesting to know more? Checkout the [full user manual](_doc/Manual.md)!
-
-
-Other Resources
----------------
-
-Ports
-- [**Hexo**](https://github.com/Kaijun/hexo-theme-huxblog) by @kaijun
-- [**React-SSR**](https://github.com/LucasIcarus/huxpro.github.io/tree/ssr) by @LucasIcarus
-
-[Starter/Boilerplate](https://github.com/huxpro/huxblog-boilerplate)
-- Out of date. Helps wanted for updating it on par with the main repo
-
-Translation
-- [🇨🇳  中文文档（有点过时）](https://github.com/Huxpro/huxpro.github.io/blob/master/_doc/README.zh.md)
-
-
-License
--------
-
-Apache License 2.0.
-Copyright (c) 2015-present Huxpro
-
-Hux Blog is derived from [Clean Blog Jekyll Theme (MIT License)](https://github.com/BlackrockDigital/startbootstrap-clean-blog-jekyll/)
-Copyright (c) 2013-2016 Blackrock Digital LLC.
+1. 博客模板是 [Hux](https://github.com/Huxpro/huxpro.github.io) fork 的, 非常感谢这个作者。
+2. 感谢 Jekyll、Github Pages 和 Bootstrap。

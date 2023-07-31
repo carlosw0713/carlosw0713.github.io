@@ -1,6 +1,22 @@
 [
   
     {
+      "title"    : "使用 GitHub Pages + Jekyll 快速搭建个人博客网站",
+      "subtitle" : "模板",
+      "tags"     : "博客模板",
+      "url"      : "/2023/07/31/%E4%BD%BF%E7%94%A8-GitHub-Pages-+-Jekyll-%E5%BF%AB%E9%80%9F%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E7%BD%91%E7%AB%99/",
+      "date"     : "2023-07-31 00:00:00 +0800"
+    } ,
+  
+    {
+      "title"    : "Python批量修改文件内容操作",
+      "subtitle" : "python脚本",
+      "tags"     : "python",
+      "url"      : "/2023/07/31/Python%E6%89%B9%E9%87%8F%E4%BF%AE%E6%94%B9%E6%96%87%E4%BB%B6%E5%86%85%E5%AE%B9%E6%93%8D%E4%BD%9C/",
+      "date"     : "2023-07-31 00:00:00 +0800"
+    } ,
+  
+    {
       "title"    : "python 日志操作",
       "subtitle" : "python高级操作",
       "tags"     : "python",
