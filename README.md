@@ -1,8 +1,6 @@
 ![](https://cdn.nlark.com/yuque/0/2023/png/38423761/1690790198839-3d270bb1-2e92-437d-a435-909b42635b12.png)
 
-![](https://img.shields.io/badge/HTML-red)![](https://img.shields.io/badge/jekyll-green)
-
-![](https://img.shields.io/badge/Ruby-3.2.21-block)
+![](https://img.shields.io/badge/HTML-red)![](https://img.shields.io/badge/jekyll-green)![](https://img.shields.io/badge/Ruby-3.2.21-block)
 
 ![](https://img.shields.io/github/issues/carlosw0713/carlosw0713.github.io.svg?style=flat)  ![](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)  ![](https://img.shields.io/github/stars/carlosw0713/carlosw0713.github.io.svg?style=social&label=Star)  ![](https://img.shields.io/github/forks/carlosw0713/carlosw0713.github.io.svg?style=social&label=Fork)
 
