@@ -3,13 +3,12 @@ ifupdate: false
 layout: post
 title: 使用 GitHub Pages + Jekyll 快速搭建个人博客网站
 subtitle: 模板
-date: 2023-07-31
+date: 2023-07-15
 author: Carlos
-header-img: img/bg-cook.jpg
+header-img: img/head-photo/post-sample-image.jpg
 catalog: true
 tags:
  - 博客模板
- - 仓库
 ---
 
 [我的博客在这里 →](https://carlosw0713.github.io/)
@@ -37,9 +36,9 @@ tags:
 -  搜索栏搜索  **carlosw0713.github.io** 进入[我的仓库](https://github.com/carlosw0713/carlosw0713.github.io )，点击右上角的 **Fork** 将我的仓库拉到你仓库下。
 3. 运行查看
 - 点击仓库 setting  再点击 Pages 当出现如下画面，可以点击 Visit site 查看或者直接浏览器输入`你的Github账号名.github.io`
-- ![image.png](https://cdn.nlark.com/yuque/0/2023/png/38423761/1690774689037-37517575-baa8-47da-a780-bb52e760776a.png#averageHue=%23fefaf9&clientId=u463127a3-4b03-4&from=paste&height=551&id=ucdc415d6&originHeight=441&originWidth=1021&originalType=binary&ratio=1&rotation=0&showTitle=false&size=47491&status=done&style=none&taskId=u63aa9756-9fe4-4d93-bd66-82d11404845&title=&width=1276.2499809823933)
+- ![](https://raw.githubusercontent.com/carlosw0713/carlosw0713.github.io/master/img/Art_img/blog/github_setting.png#id=J4LA8&originHeight=441&originWidth=1021&originalType=binary&ratio=1&rotation=0&showTitle=false&status=done&style=none&title=)
 - 如果网页打开如下恭喜你完成了一半了！如果没用不是该页面请重新检查操作问题。
-- ![post_home_md.png](https://cdn.nlark.com/yuque/0/2023/png/38423761/1690708359126-51fd7eb0-3a90-4ac2-b688-99819b84c801.png#averageHue=%233a352e&clientId=u377df95e-6bcf-4&from=paste&height=991&id=uea308889&originHeight=1239&originWidth=2472&originalType=binary&ratio=1.25&rotation=0&showTitle=false&size=1543124&status=done&style=none&taskId=u673642f8-a645-43a8-8bdb-0c331bfc72d&title=&width=1977.6)
+- ![](https://raw.githubusercontent.com/carlosw0713/carlosw0713.github.io/master/img/Art_img/blog/home_me.png#id=fNnaH&originHeight=317&originWidth=674&originalType=binary&ratio=1&rotation=0&showTitle=false&status=done&style=none&title=)
 
 Ps：
 
@@ -106,7 +105,7 @@ github_username: carlosw0713
 
 如果需要添加或者修改可以到_includes/sns_links.html 进行添加修改
 不需要显示的话直接注释掉。效果图如下
-![image.png](https://cdn.nlark.com/yuque/0/2023/png/38423761/1690770002410-f081655f-0bfd-4c49-bf93-6002e0678579.png#averageHue=%23f2f1f1&clientId=u463127a3-4b03-4&from=paste&height=60&id=u939610f9&originHeight=60&originWidth=211&originalType=binary&ratio=1&rotation=0&showTitle=false&size=3357&status=done&style=none&taskId=u15eb0434-176d-43e9-a776-b70ca89364d&title=&width=211)
+![](https://raw.githubusercontent.com/carlosw0713/carlosw0713.github.io/master/img/Art_img/blog/_post_code.png#id=GQRgX&originalType=binary&ratio=1&rotation=0&showTitle=false&status=done&style=none&title=)
 
 #### _config-侧边栏
 ```yaml
@@ -116,7 +115,7 @@ sidebar-about-description: "乐观的悲观主义者 <br> Email:Carlos.w.0713@ou
 # sidebar-avatar: https://github.com/carlos.png #个人头像 可以设置为网页链接或者路径 
 sidebar-avatar: /img/about-Carlos1.jpg #个人头像 可以设置为网页链接或者路径
 ```
-![image.png](https://cdn.nlark.com/yuque/0/2023/png/38423761/1690770110376-faa8a60d-ce05-428f-b510-4bef3ab1825b.png#averageHue=%23fcfafa&clientId=u463127a3-4b03-4&from=paste&height=555&id=u87aca25e&originHeight=555&originWidth=1153&originalType=binary&ratio=1&rotation=0&showTitle=false&size=143794&status=done&style=none&taskId=u138ca05b-cf4a-4fd7-bd1e-c292d8ab0a6&title=&width=1153)
+![](https://raw.githubusercontent.com/carlosw0713/carlosw0713.github.io/master/img/Art_img/blog/home_side.png#id=iDtQ3&originHeight=325&originWidth=675&originalType=binary&ratio=1&rotation=0&showTitle=false&status=done&style=none&title=)
 
 
 #### _config-好友
@@ -132,7 +131,7 @@ friends:
     { title: "ChatGTP", href: "https://c.binjie.fun/" },
   ]
 ```
-![image.png](https://cdn.nlark.com/yuque/0/2023/png/38423761/1690770542239-6951f875-af19-4a80-a3b5-6979b14f8beb.png#averageHue=%23fcfbfa&clientId=u463127a3-4b03-4&from=paste&height=629&id=u7dee3b88&originHeight=503&originWidth=1041&originalType=binary&ratio=1&rotation=0&showTitle=false&size=132665&status=done&style=none&taskId=u8e402131-e525-4b78-b124-37e29769283&title=&width=1301.2499806098642)
+![](https://raw.githubusercontent.com/carlosw0713/carlosw0713.github.io/master/img/Art_img/blog/home_friends.png#id=RstRb&originHeight=326&originWidth=675&originalType=binary&ratio=1&rotation=0&showTitle=false&status=done&style=none&title=)
 
 #### img-图片配置
 
@@ -145,7 +144,7 @@ friends:
 
 #### _posts-md文件设置（划重点！！！）
 效果展示：
-![_post_settings_introduce.png](https://cdn.nlark.com/yuque/0/2023/png/38423761/1690772325161-c8f992a4-a0f3-442a-aaff-9e2a2394b40f.png#averageHue=%2395932c&clientId=u463127a3-4b03-4&from=paste&height=1115&id=EacAo&originHeight=892&originWidth=1842&originalType=binary&ratio=1&rotation=0&showTitle=false&size=767044&status=done&style=none&taskId=u60c190b3-9ad5-4778-98e2-8dda9d14055&title=&width=2302.499965690077)
+![](https://raw.githubusercontent.com/carlosw0713/carlosw0713.github.io/master/img/Art_img/blog/_post_settings_introduce.png#id=yRb9C&originHeight=327&originWidth=675&originalType=binary&ratio=1&rotation=0&showTitle=false&status=done&style=none&title=)
 
 _post可以说的上是整个博客最重要的部分了，应为文章都统一存放在这个页面。需要注意点如下：
 
@@ -189,8 +188,7 @@ Ps：
 - 如果需要修改同样可以指定路径下文件，对某内容进行替换操作。
 
 代码已经写好，可以参考一下 [《Python批量修改文件内容操作》](https://carlosw0713.github.io//2023/07/31/Python批量修改文件内容操作/)。
-![image.png](https://cdn.nlark.com/yuque/0/2023/png/38423761/1690787103117-1d8d2770-71d6-4bf5-a7b6-7fe66577eba9.png#averageHue=%23363534&clientId=uc3315dcc-0e18-4&from=paste&height=34&id=uba816b45&originHeight=31&originWidth=417&originalType=binary&ratio=0.800000011920929&rotation=0&showTitle=false&size=3402&status=done&style=none&taskId=u463bd5a5-75c7-4531-a945-58d712e9748&title=&width=463.33334560747534)
-![image.png](https://cdn.nlark.com/yuque/0/2023/png/38423761/1690786818835-912fbb8f-b882-441f-9bea-f15beeeadfef.png#averageHue=%238c8f2e&clientId=uc3315dcc-0e18-4&from=paste&height=789&id=u61da107f&originHeight=710&originWidth=1801&originalType=binary&ratio=0.800000011920929&rotation=0&showTitle=false&size=458243&status=done&style=none&taskId=ue9b449a3-3563-4de8-835a-31df2bb121e&title=&width=2001.1111641224534)
+![](https://raw.githubusercontent.com/carlosw0713/carlosw0713.github.io/master/img/Art_img/blog/about_blog_init.png#id=mKw71&originHeight=266&originWidth=675&originalType=binary&ratio=1&rotation=0&showTitle=false&status=done&style=none&title=)
 
 ### 本地运行
 
@@ -205,7 +203,7 @@ Copy Codegit clone https://github.com/你的用户名/你的用户名.github.io.
 ```
 bundle exec jekyll serve
 ```
-> - 在浏览器中访问 [http://localhost:4000](http://localhost:4000/) 就可以看到你的 Jekyll 网站了，你对本地博客的修改都会在这个地址进行显示，修改配置后网址要`强制刷新`才会展示。
+- 在浏览器中访问 [http://localhost:4000](http://localhost:4000/) 就可以看到你的 Jekyll 网站了，你对本地博客的修改都会在这个地址进行显示，修改配置后网址要`强制刷新`才会展示。
 
 
 ## 致谢
