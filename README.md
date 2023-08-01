@@ -16,8 +16,8 @@
 
 ### 1. 本地安装 Jekyll
 
-- Windos：安装 Ruby和Devkit [Downloads](https://rubyinstaller.org/downloads/)
-- MAC：安装 Jekyll cmd命令：`gem install jekyll bundler`
+-  安装 Ruby和Devkit [Downloads](https://rubyinstaller.org/downloads/)
+-  Jekyll cmd命令：`gem install jekyll bundler`
 
 ### 2. 克隆到本地
 
